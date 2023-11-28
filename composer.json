@@ -1,7 +1,7 @@
 {
-    "name": "spatie/browsershot",
+    "name": "chetanp23/browsershot",
     "description": "Convert a webpage to an image or pdf using headless Chrome",
-    "homepage": "https://github.com/spatie/browsershot",
+    "homepage": "https://github.com/Chetanp23/browsershot",
     "keywords": [
         "convert",
         "webpage",
@@ -15,9 +15,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
-            "homepage": "https://github.com/freekmurze",
+            "name": "Chetan Patel",
+            "email": "cp@webhusetballum.dk",
+            "homepage": "https://github.com/Chetanp23",
             "role": "Developer"
         }
     ],
